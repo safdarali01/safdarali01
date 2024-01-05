@@ -1,6 +1,6 @@
 <img src="./cover.jpeg" width = "100%" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=35&pause=300&color=0099FF&background=DA02FF00&center=true&width=635&height=70&lines=Welcome+To+My+GitHub+Profile!" alt="Typing SVG" /></a>
-<p>I'm a passionate software developer who loves transforming ideas into digital solutions. I love to <b>think out of the box</b> and love to take challenges. My strong problem-solving skills enable me to analyze complex problems and develop solutions. I believe <b>self-growth</b> and <b>giving up is not an option</b> for me.</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=35&pause=300&color=6B21A8&width=635&height=70&lines=Welcome+To+My+GitHub+Profile!" alt="Typing SVG" /></a>
+I'm a passionate Full Stack Developer who loves turning ideas into digital solutions. I enjoy thinking creatively and tackling challenges. My strong problem-solving skills help me analyze complex issues and find solutions. I believe in constant self-improvement, and giving up is never an option for me.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [Batoolfatima2135@gmail.com](mailto:Batoolfatima2135@gmail.com)
