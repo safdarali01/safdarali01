@@ -1,6 +1,6 @@
 <img src="./cover.jpeg" width = "100%" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=55&pause=300&color=6B21A8&width=1000&height=100&lines=Welcome+To+My+GitHub+Profile!" alt="Typing SVG" /></a>
-<p>I'm a passionate Full Stack Developer who loves turning ideas into digital solutions. I enjoy thinking creatively and tackling challenges. My strong problem-solving skills help me analyze complex issues and find solutions. I believe in constant self-improvement, and giving up is never an option for me.</p>
+<p>I'm a passionate Full Stack Developer who loves turning ideas into digital solutions. I enjoy thinking creatively and tackling challenges. My strong problem-solving skills help me analyze complex issues and find solutions. I believe in constant self-improvement, and giving up is never an option for me.</p></br>
 
 - 🔭 I’m currently working on [My Portfolio](https://safdarali.me)
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/full-stack-website-developer](https://www.linkedin.com/in/full-stack-website-developer)
 
-<p>If you share the same passion for cutting-edge software development as I do, click that 'Follow' button, and let's embark on an exciting adventure through lines of code together.</p>
+</br><p>If you share the same passion for cutting-edge software development as I do, click that 'Follow' button, and let's embark on an exciting adventure through lines of code together.</p>
 <a href="https://www.github.com/safdarali01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/safdarali01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
