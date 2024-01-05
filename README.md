@@ -2,13 +2,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=55&pause=300&color=6B21A8&width=1000&height=100&lines=Welcome+To+My+GitHub+Profile!" alt="Typing SVG" /></a>
 <p>I'm a passionate Full Stack Developer who loves turning ideas into digital solutions. I enjoy thinking creatively and tackling challenges. My strong problem-solving skills help me analyze complex issues and find solutions. I believe in constant self-improvement, and giving up is never an option for me.</p>
 
-🔭 I’m currently working on My Portfolio
-🌱 I’m currently learning MERN Stack
-👯 I’m looking to collaborate on Affiliate Coupon Website
-💬 Ask me about React JS, Next JS, Express JS, Mongo DB and Node JS
-👨‍💻 All of my projects are available at https://github.com/safdarali01/
-📄 Know about my experiences https://www.linkedin.com/in/full-stack-website-developer
-📫 How to reach me safdarali.2699@gmail.com
+- 🔭 I’m currently working on [My Portfolio](https://safdarali.me)
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 👯 I’m looking to collaborate on **Affiliate Coupon Website**
+
+- 👨‍💻 All of my projects are available at [https://github.com/safdarali01/](https://github.com/safdarali01/)
+
+- 💬 Ask me about **React JS, Next JS, Express JS, Mongo DB and Node JS**
+
+- 📫 How to reach me **safdarali.2699@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/full-stack-website-developer](https://www.linkedin.com/in/full-stack-website-developer)
 
 <p>If you share the same passion for cutting-edge software development as I do, click that 'Follow' button, and let's embark on an exciting adventure through lines of code together.</p>
 <a href="https://www.github.com/safdarali01" target="_blank" rel="noreferrer"><img
