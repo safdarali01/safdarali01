@@ -1,5 +1,5 @@
 <img src="./cover.jpeg" width = "100%" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=35&pause=300&color=6B21A8&width=full&height=100&lines=Welcome+To+My+GitHub+Profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=35&pause=300&color=6B21A8&width=700&height=100&lines=Welcome+To+My+GitHub+Profile!" alt="Typing SVG" /></a>
 <p>I'm a passionate Full Stack Developer who loves turning ideas into digital solutions. I enjoy thinking creatively and tackling challenges. My strong problem-solving skills help me analyze complex issues and find solutions. I believe in constant self-improvement, and giving up is never an option for me.</p>
 
 * 🌍  I'm based in Pakistan
