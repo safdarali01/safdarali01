@@ -8,7 +8,7 @@
 * 🧠  I'm learning Next.js
 * 🤝  Currently seeking new opportunities 
 
-<p>If you're as passionate about innovative software development as I am, then hit that <b>'Follow'</b> button, and let's embark on an exciting adventure through lines of code.</p>
+<p>If you share the same passion for cutting-edge software development as I do, click that 'Follow' button, and let's embark on an exciting adventure through lines of code together.</p>
 <a href="https://www.github.com/safdarali01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/safdarali01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
