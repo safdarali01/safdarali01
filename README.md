@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/full-stack-website-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="full-stack-website-developer" height="30" width="40" /></a>
 <a href="https://fb.com/safdar.ali26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safdar.ali26" height="30" width="40" /></a>
-<a href="https://instagram.com/codewithsafdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithsafdar" height="30" width="40" /></a>
+<a href="https://instagram.com/codebysafdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithsafdar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,18 +36,10 @@
 <p><a href="https://www.buymeacoffee.com/safdarali28"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="safdarali28" /></a></p><br><br>
 
 
-### Badges
-![batoolfatima2135's Streak](https://github-readme-streak-stats.herokuapp.com/?user=safdarali01&theme=tokyonight&hide_border=false)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safdarali01&show_icons=true&locale=en&layout=compact" alt="safdarali01" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safdarali01&show_icons=true&locale=en" alt="safdarali01" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safdarali01&" alt="safdarali01" /></p>
 
-### Stats 
-
-![batoolfatima2135's Stats](https://github-readme-stats.vercel.app/api?username=safdarali01&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-<img 
-src="https://github.com/safdarali01/batoolfatima2135/assets/61277612/6184c15a-5360-4452-be6c-24789ad65013" width="350px" align="right" style="border-radius:50px;" /> 
-
-### Top Languages
-
-![safdarali01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safdarali01&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
