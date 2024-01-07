@@ -19,6 +19,7 @@
 </br><p>If you share the same passion for cutting-edge software development as I do, click that 'Follow' button, and let's embark on an exciting adventure through lines of code together.</p>
 <a href="https://www.github.com/safdarali01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/safdarali01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<img src="https://komarev.com/ghpvc/?username=safdarali01&label=Profile%20views&color=0e75b6&style=flat" alt="safdarali01" /> </p>
 
 <img src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/fda545fb-d86b-49e1-879b-333c56ea8eb3" align = "right"  style="border-radius:50px;" width="450px" >
 
