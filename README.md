@@ -20,7 +20,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safdarali01" alt="safdarali01" /></a> </p>
 
-<img src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/fda545fb-d86b-49e1-879b-333c56ea8eb3" align = "right"  style="border-radius:50px;" width="450px" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,7 +38,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safdarali01&show_icons=true&locale=en&layout=compact" alt="safdarali01" /></p><br><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safdarali01&show_icons=true&locale=en" alt="safdarali01" /></p>
-<br><br><br><br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safdarali01&" alt="safdarali01" /></p>
 
 
