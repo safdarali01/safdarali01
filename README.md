@@ -88,8 +88,8 @@ Git | GitHub | Postman | VS Code | Trello | Zoho Projects
 
 ---
 
+## ⚙️ Skills
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Programming Languages -->
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
@@ -162,13 +162,27 @@ Git | GitHub | Postman | VS Code | Trello | Zoho Projects
   </a>
 </p>
 
-<h3 align="left">Support:</h3>
+---
+
+## 💖 Support
+
 <p><a href="https://www.buymeacoffee.com/safdarali28"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="safdarali28" /></a></p><br><br><br><br><br><br>
 
+---
+
+## 📊 Top Languages
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safdarali01&show_icons=true&locale=en&layout=compact" alt="safdarali01" /></p><br><br><br><br>
 
+---
+
+## 📈 GitHub Stats
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safdarali01&show_icons=true&locale=en" alt="safdarali01" /></p>
+
+---
+
+## 🔥 GitHub Streak
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safdarali01&" alt="safdarali01" /></p>
 
