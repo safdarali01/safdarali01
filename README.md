@@ -1,20 +1,29 @@
 <img src="./cover.jpg" width = "100%" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=55&pause=300&color=00caa1&width=1000&height=100&lines=Welcome+To+My+GitHub+Profile!" alt="Typing SVG" /></a>
-<p>I'm a passionate Full Stack Developer who loves turning ideas into digital solutions. I enjoy thinking creatively and tackling challenges. My strong problem-solving skills help me analyze complex issues and find solutions. I believe in constant self-improvement, and giving up is never an option for me.</p></br>
+**Software Engineer | Full Stack Developer | Passionate about building scalable web solutions**
 
-- 🔭 I’m currently working on [My Portfolio](https://safdarali.me)
+🚀 I'm a results-driven Full Stack Developer based in **Dubai, UAE**, with experience in designing, developing, and deploying robust web applications. My stack covers both frontend and backend — from crafting responsive UIs to developing secure APIs and integrating third-party services.
 
-- 🌱 I’m currently learning **MERN Stack**
+---
 
-- 👯 I’m looking to collaborate on **Affiliate Coupon Website**
+## 🔧 Tech Stack
 
-- 👨‍💻 All of my projects are available at [https://github.com/safdarali01/](https://github.com/safdarali01/)
+**Languages:**  
+JavaScript | Python | Java | C++
 
-- 💬 Ask me about **React JS, Next JS, Express JS, Mongo DB and Node JS**
+**Frontend:**  
+React | Next.js | Vue | Tailwind CSS | Bootstrap | HTML5 | CSS3
 
-- 📫 How to reach me **safdarali.2699@gmail.com**
+**Backend:**  
+Node.js | Express.js | RESTful APIs
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/full-stack-website-developer](https://www.linkedin.com/in/full-stack-website-developer)
+**Database:**  
+MySQL | PostgreSQL | Firebase | SQL
+
+**Tools & Platforms:**  
+Git | GitHub | Postman | VS Code | Trello | Zoho Projects
+
+---
 
 </br><p>If you share the same passion for cutting-edge software development as I do, click that 'Follow' button, and let's embark on an exciting adventure through lines of code together.</p>
 
