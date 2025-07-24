@@ -1,6 +1,6 @@
 <img src="./cover.jpg" width = "100%" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=55&pause=300&color=00caa1&width=1000&height=100&lines=Welcome+To+My+GitHub+Profile!" alt="Typing SVG" /></a>
-**Software Engineer | Full Stack Developer | Passionate about building scalable web solutions**
+<b>Software Engineer | Full Stack Developer | Passionate about building scalable web solutions</b>
 
 🚀 I'm a results-driven Full Stack Developer based in **Dubai, UAE**, with experience in designing, developing, and deploying robust web applications. My stack covers both frontend and backend — from crafting responsive UIs to developing secure APIs and integrating third-party services.
 
@@ -25,7 +25,22 @@ Git | GitHub | Postman | VS Code | Trello | Zoho Projects
 
 ---
 
-</br><p>If you share the same passion for cutting-edge software development as I do, click that 'Follow' button, and let's embark on an exciting adventure through lines of code together.</p>
+## 💼 Work Experience
+
+### 🔹 Full Stack Developer — *Freelance, Dubai* (Jan 2025 – Present)
+- Built dashboards, admin panels, and scalable web applications.
+- Refined backend logic for better performance and speed.
+- Implemented secure authentication systems and role-based access.
+
+### 🔹 Full Stack Developer — *Instant Web Designers, Pakistan* (Jan 2024 – Dec 2024)
+- Led the development of internal admin systems.
+- Integrated data validation, clean API workflows, and Git version control.
+
+### 🔹 Junior Web Developer — *Information Technology Exchanger, Pakistan* (Sep 2023 – Dec 2023)
+- Developed frontends with HTML5, JavaScript, and Tailwind CSS.
+- Worked on AJAX requests, UI logic, and modular reusable code.
+
+---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safdarali01" alt="safdarali01" /></a> </p>
 
