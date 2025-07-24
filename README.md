@@ -166,7 +166,7 @@ Git | GitHub | Postman | VS Code | Trello | Zoho Projects
 
 ## 💖 Support
 
-<p><a href="https://www.buymeacoffee.com/safdarali28"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="safdarali28" /></a></p><br><br><br><br><br><br>
+<p><a href="https://www.buymeacoffee.com/safdarali28"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="safdarali28" /></a></p><br><br>
 
 ---
 
